@@ -1,10 +1,10 @@
 
-var phrases1 = ["Building", "Crafting", "Sparking", "Forging", "Hatching"];
-var phrases2 = ["synergistic", "shared", "cutting-edge", "innovative", "community-led"];
-var phrases3 = ["partnerships", "technologies", "makerspaces", "programs", "collections"];
+var phrases1 = ["Building", "Crafting", "Sparking", "Forging", "Hatching", "Growing"];
+var phrases2 = ["synergistic", "shared", "cutting-edge", "innovative", "community-led", "dynamic"];
+var phrases3 = ["partnerships", "technologies", "makerspaces", "programs", "initiatives", "incubators"];
 var phrases4 = ["with", "using"];
-var phrases5 = ["innovative", "inventive", "cutting-edge", "groundbreaking", "ingenious"];
-var phrases6 = ["makerspaces", "collections", "partnerships", "infrastructure", "QR codes"];
+var phrases5 = ["innovative", "inventive", "cutting-edge", "groundbreaking", "ingenious", "savvy"];
+var phrases6 = ["makerspaces", "collections", "ILS technology", "QR codes", "RFID technology", "3D printer technology", "piles of books", "new hire massiahs"];
 
 
 
